@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/larenpinto/Desktop/ResearchPaperAssistant/src/main.cpp" "CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o" "gcc" "CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o.d"
+  "/Users/larenpinto/Desktop/ResearchPaperAssistant/src/pdf/PDFParser.cpp" "CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.o" "gcc" "CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

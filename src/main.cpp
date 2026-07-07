@@ -1,7 +1,13 @@
 #include <iostream>
+#include "pdf/PDFParser.h"
 
-int main() {
-  std::cout << "=== Research Paper Assistant ===\n";
+int main()
+{
+    PDFParser parser;
 
-  return 0;
+    std::string text = parser.extractText("../paper.pdf");
+
+    std::cout << text << std::endl;
+
+    return 0;
 }

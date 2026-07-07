@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o"
   "CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o.d"
+  "CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.o"
+  "CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.o.d"
   "ResearchPaperAssistant"
   "ResearchPaperAssistant.pdb"
 )

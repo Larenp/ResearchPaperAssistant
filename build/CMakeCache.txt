@@ -219,6 +219,12 @@ CMAKE_TAPI:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/tapi
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Arguments to supply to pkg-config
+PKG_CONFIG_ARGN:STRING=
+
+//pkg-config executable
+PKG_CONFIG_EXECUTABLE:FILEPATH=/opt/homebrew/bin/pkg-config
+
 //Value Computed by CMake
 ResearchPaperAssistant_BINARY_DIR:STATIC=/Users/larenpinto/Desktop/ResearchPaperAssistant/build
 
@@ -227,6 +233,9 @@ ResearchPaperAssistant_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 ResearchPaperAssistant_SOURCE_DIR:STATIC=/Users/larenpinto/Desktop/ResearchPaperAssistant
+
+//Path to a library.
+pkgcfg_lib_POPPLER_poppler-cpp:FILEPATH=/opt/homebrew/Cellar/poppler/26.07.0/lib/libpoppler-cpp.dylib
 
 
 ########################
@@ -374,4 +383,50 @@ CMAKE_TAPI-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding PkgConfig
+FIND_PACKAGE_MESSAGE_DETAILS_PkgConfig:INTERNAL=[/opt/homebrew/bin/pkg-config][v2.5.1()]
+//ADVANCED property for variable: PKG_CONFIG_ARGN
+PKG_CONFIG_ARGN-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: PKG_CONFIG_EXECUTABLE
+PKG_CONFIG_EXECUTABLE-ADVANCED:INTERNAL=1
+POPPLER_CFLAGS:INTERNAL=-I/opt/homebrew/Cellar/poppler/26.07.0/include/poppler/cpp;-I/opt/homebrew/Cellar/poppler/26.07.0/include/poppler;-I/opt/homebrew/Cellar/fontconfig/2.18.1/include;-I/opt/homebrew/opt/freetype/include/freetype2;-I/opt/homebrew/Cellar/nss/3.125/include/nss;-I/opt/homebrew/Cellar/nspr/4.39/include/nspr;-I/opt/homebrew/Cellar/gpgmepp/2.1.0/include;-I/opt/homebrew/Cellar/gpgme/2.1.2/include;-I/opt/homebrew/Cellar/libassuan/3.0.2/include;-I/opt/homebrew/opt/libgpg-error/include;-I/opt/homebrew/Cellar/openjpeg/2.5.4/include/openjpeg-2.5;-I/opt/homebrew/opt/little-cms2/include;-I/opt/homebrew/opt/libpng/include/libpng16;-I/opt/homebrew/opt/libtiff/include;-I/opt/homebrew/opt/zstd/include;-I/opt/homebrew/Cellar/xz/5.8.3/include;-I/opt/homebrew/opt/jpeg-turbo/include
+POPPLER_CFLAGS_I:INTERNAL=
+POPPLER_CFLAGS_OTHER:INTERNAL=
+POPPLER_FOUND:INTERNAL=1
+POPPLER_INCLUDEDIR:INTERNAL=/opt/homebrew/Cellar/poppler/26.07.0/include
+POPPLER_INCLUDE_DIRS:INTERNAL=/opt/homebrew/Cellar/poppler/26.07.0/include/poppler/cpp;/opt/homebrew/Cellar/poppler/26.07.0/include/poppler;/opt/homebrew/Cellar/fontconfig/2.18.1/include;/opt/homebrew/opt/freetype/include/freetype2;/opt/homebrew/Cellar/nss/3.125/include/nss;/opt/homebrew/Cellar/nspr/4.39/include/nspr;/opt/homebrew/Cellar/gpgmepp/2.1.0/include;/opt/homebrew/Cellar/gpgme/2.1.2/include;/opt/homebrew/Cellar/libassuan/3.0.2/include;/opt/homebrew/opt/libgpg-error/include;/opt/homebrew/Cellar/openjpeg/2.5.4/include/openjpeg-2.5;/opt/homebrew/opt/little-cms2/include;/opt/homebrew/opt/libpng/include/libpng16;/opt/homebrew/opt/libtiff/include;/opt/homebrew/opt/zstd/include;/opt/homebrew/Cellar/xz/5.8.3/include;/opt/homebrew/opt/jpeg-turbo/include
+POPPLER_LDFLAGS:INTERNAL=-L/opt/homebrew/Cellar/poppler/26.07.0/lib;-lpoppler-cpp
+POPPLER_LDFLAGS_OTHER:INTERNAL=
+POPPLER_LIBDIR:INTERNAL=/opt/homebrew/Cellar/poppler/26.07.0/lib
+POPPLER_LIBRARIES:INTERNAL=poppler-cpp
+POPPLER_LIBRARY_DIRS:INTERNAL=/opt/homebrew/Cellar/poppler/26.07.0/lib
+POPPLER_LIBS:INTERNAL=
+POPPLER_LIBS_L:INTERNAL=
+POPPLER_LIBS_OTHER:INTERNAL=
+POPPLER_LIBS_PATHS:INTERNAL=
+POPPLER_MODULE_NAME:INTERNAL=poppler-cpp
+POPPLER_PREFIX:INTERNAL=/opt/homebrew/Cellar/poppler/26.07.0
+POPPLER_STATIC_CFLAGS:INTERNAL=-I/opt/homebrew/Cellar/poppler/26.07.0/include/poppler/cpp;-I/opt/homebrew/Cellar/poppler/26.07.0/include/poppler;-I/opt/homebrew/Cellar/fontconfig/2.18.1/include;-I/opt/homebrew/opt/freetype/include/freetype2;-I/opt/homebrew/Cellar/nss/3.125/include/nss;-I/opt/homebrew/Cellar/nspr/4.39/include/nspr;-I/opt/homebrew/Cellar/gpgmepp/2.1.0/include;-I/opt/homebrew/Cellar/gpgme/2.1.2/include;-I/opt/homebrew/Cellar/libassuan/3.0.2/include;-I/opt/homebrew/opt/libgpg-error/include;-I/opt/homebrew/Cellar/openjpeg/2.5.4/include/openjpeg-2.5;-I/opt/homebrew/opt/little-cms2/include;-I/opt/homebrew/opt/libpng/include/libpng16;-I/opt/homebrew/opt/libtiff/include;-I/opt/homebrew/opt/zstd/include;-I/opt/homebrew/Cellar/xz/5.8.3/include;-I/opt/homebrew/opt/jpeg-turbo/include;-DXML_STATIC;-DOPJ_STATIC;-DLZMA_API_STATIC
+POPPLER_STATIC_CFLAGS_I:INTERNAL=
+POPPLER_STATIC_CFLAGS_OTHER:INTERNAL=-DXML_STATIC;-DOPJ_STATIC;-DLZMA_API_STATIC
+POPPLER_STATIC_INCLUDE_DIRS:INTERNAL=/opt/homebrew/Cellar/poppler/26.07.0/include/poppler/cpp;/opt/homebrew/Cellar/poppler/26.07.0/include/poppler;/opt/homebrew/Cellar/fontconfig/2.18.1/include;/opt/homebrew/opt/freetype/include/freetype2;/opt/homebrew/Cellar/nss/3.125/include/nss;/opt/homebrew/Cellar/nspr/4.39/include/nspr;/opt/homebrew/Cellar/gpgmepp/2.1.0/include;/opt/homebrew/Cellar/gpgme/2.1.2/include;/opt/homebrew/Cellar/libassuan/3.0.2/include;/opt/homebrew/opt/libgpg-error/include;/opt/homebrew/Cellar/openjpeg/2.5.4/include/openjpeg-2.5;/opt/homebrew/opt/little-cms2/include;/opt/homebrew/opt/libpng/include/libpng16;/opt/homebrew/opt/libtiff/include;/opt/homebrew/opt/zstd/include;/opt/homebrew/Cellar/xz/5.8.3/include;/opt/homebrew/opt/jpeg-turbo/include
+POPPLER_STATIC_LDFLAGS:INTERNAL=-L/opt/homebrew/Cellar/poppler/26.07.0/lib;-lpoppler-cpp;-lpoppler;-L/opt/homebrew/Cellar/fontconfig/2.18.1/lib;-lfontconfig;-lintl;-lm;-L/opt/homebrew/opt/freetype/lib;-lfreetype;-L/usr/lib;-lbz2;-lexpat;-lcurl;-lldap;-lz;-L/opt/homebrew/Cellar/nss/3.125/lib;-lnss3;-lnssutil3;-lsmime3;-lssl3;-L/opt/homebrew/Cellar/nspr/4.39/lib;-lplds4;-lplc4;-lnspr4;-L/opt/homebrew/Cellar/gpgmepp/2.1.0/lib;-lgpgmepp;-L/opt/homebrew/Cellar/gpgme/2.1.2/lib;-lgpgme;-L/opt/homebrew/Cellar/libassuan/3.0.2/lib;-lassuan;-L/opt/homebrew/opt/libgpg-error/lib;-lgpg-error;-L/opt/homebrew/Cellar/openjpeg/2.5.4/lib;-lopenjp2;-lm;-L/opt/homebrew/opt/little-cms2/lib;-llcms2;-lm;-lpthread;-L/opt/homebrew/opt/libpng/lib;-lpng16;-lz;-L/opt/homebrew/opt/libtiff/lib;-ltiff;-L/opt/homebrew/opt/zstd/lib;-lzstd;-L/opt/homebrew/Cellar/xz/5.8.3/lib;-llzma;-pthread;-lpthread;-L/opt/homebrew/opt/jpeg-turbo/lib;-ljpeg;-lz
+POPPLER_STATIC_LDFLAGS_OTHER:INTERNAL=-pthread
+POPPLER_STATIC_LIBDIR:INTERNAL=
+POPPLER_STATIC_LIBRARIES:INTERNAL=poppler-cpp;poppler;fontconfig;intl;m;freetype;bz2;expat;curl;ldap;z;nss3;nssutil3;smime3;ssl3;plds4;plc4;nspr4;gpgmepp;gpgme;assuan;gpg-error;openjp2;m;lcms2;m;pthread;png16;z;tiff;zstd;lzma;pthread;jpeg;z
+POPPLER_STATIC_LIBRARY_DIRS:INTERNAL=/opt/homebrew/Cellar/poppler/26.07.0/lib;/opt/homebrew/Cellar/fontconfig/2.18.1/lib;/opt/homebrew/opt/freetype/lib;/usr/lib;/opt/homebrew/Cellar/nss/3.125/lib;/opt/homebrew/Cellar/nspr/4.39/lib;/opt/homebrew/Cellar/gpgmepp/2.1.0/lib;/opt/homebrew/Cellar/gpgme/2.1.2/lib;/opt/homebrew/Cellar/libassuan/3.0.2/lib;/opt/homebrew/opt/libgpg-error/lib;/opt/homebrew/Cellar/openjpeg/2.5.4/lib;/opt/homebrew/opt/little-cms2/lib;/opt/homebrew/opt/libpng/lib;/opt/homebrew/opt/libtiff/lib;/opt/homebrew/opt/zstd/lib;/opt/homebrew/Cellar/xz/5.8.3/lib;/opt/homebrew/opt/jpeg-turbo/lib
+POPPLER_STATIC_LIBS:INTERNAL=
+POPPLER_STATIC_LIBS_L:INTERNAL=
+POPPLER_STATIC_LIBS_OTHER:INTERNAL=
+POPPLER_STATIC_LIBS_PATHS:INTERNAL=
+POPPLER_VERSION:INTERNAL=26.07.0
+POPPLER_poppler-cpp_INCLUDEDIR:INTERNAL=
+POPPLER_poppler-cpp_LIBDIR:INTERNAL=
+POPPLER_poppler-cpp_PREFIX:INTERNAL=
+POPPLER_poppler-cpp_VERSION:INTERNAL=
+__pkg_config_arguments_POPPLER:INTERNAL=REQUIRED;poppler-cpp
+__pkg_config_checked_POPPLER:INTERNAL=1
+//ADVANCED property for variable: pkgcfg_lib_POPPLER_poppler-cpp
+pkgcfg_lib_POPPLER_poppler-cpp-ADVANCED:INTERNAL=1
+prefix_result:INTERNAL=/opt/homebrew/Cellar/poppler/26.07.0/lib
 

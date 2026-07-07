@@ -153,6 +153,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ResearchPaperAssistant.dir/build.make CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/pdf/PDFParser.o: src/pdf/PDFParser.cpp.o
+.PHONY : src/pdf/PDFParser.o
+
+# target to build an object file
+src/pdf/PDFParser.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ResearchPaperAssistant.dir/build.make CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.o
+.PHONY : src/pdf/PDFParser.cpp.o
+
+src/pdf/PDFParser.i: src/pdf/PDFParser.cpp.i
+.PHONY : src/pdf/PDFParser.i
+
+# target to preprocess a source file
+src/pdf/PDFParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ResearchPaperAssistant.dir/build.make CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.i
+.PHONY : src/pdf/PDFParser.cpp.i
+
+src/pdf/PDFParser.s: src/pdf/PDFParser.cpp.s
+.PHONY : src/pdf/PDFParser.s
+
+# target to generate assembly for a file
+src/pdf/PDFParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ResearchPaperAssistant.dir/build.make CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.s
+.PHONY : src/pdf/PDFParser.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/pdf/PDFParser.o"
+	@echo "... src/pdf/PDFParser.i"
+	@echo "... src/pdf/PDFParser.s"
 .PHONY : help
 
 

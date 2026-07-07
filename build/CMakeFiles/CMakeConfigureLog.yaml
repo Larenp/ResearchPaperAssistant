@@ -27,6 +27,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -52,6 +54,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/uname"
       - "/opt/homebrew/opt/python@3.12/bin/uname"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/uname"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/uname"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/uname"
       - "/opt/homebrew/bin/uname"
       - "/opt/homebrew/sbin/uname"
       - "/usr/local/bin/uname"
@@ -66,6 +70,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -82,6 +88,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -126,6 +134,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -151,6 +161,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/gmake"
       - "/opt/homebrew/opt/python@3.12/bin/gmake"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/gmake"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/gmake"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/gmake"
       - "/opt/homebrew/bin/gmake"
       - "/opt/homebrew/sbin/gmake"
       - "/usr/local/bin/gmake"
@@ -175,6 +187,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/make"
       - "/opt/homebrew/opt/python@3.12/bin/make"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/make"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/make"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/make"
       - "/opt/homebrew/bin/make"
       - "/opt/homebrew/sbin/make"
       - "/usr/local/bin/make"
@@ -189,6 +203,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -205,6 +221,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -247,6 +265,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -272,6 +292,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/cc"
       - "/opt/homebrew/opt/python@3.12/bin/cc"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/cc"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/cc"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/cc"
       - "/opt/homebrew/bin/cc"
       - "/opt/homebrew/sbin/cc"
       - "/usr/local/bin/cc"
@@ -286,6 +308,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -302,6 +326,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -345,6 +371,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -361,6 +389,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -461,6 +491,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -487,6 +519,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -503,6 +537,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -540,6 +576,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -566,6 +604,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -582,6 +622,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -619,6 +661,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -645,6 +689,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -661,6 +707,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -698,6 +746,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -724,6 +774,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -740,6 +792,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -777,6 +831,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -803,6 +859,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -819,6 +877,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -856,6 +916,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -882,6 +944,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -898,6 +962,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -935,6 +1001,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -960,6 +1028,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/objcopy"
       - "/opt/homebrew/opt/python@3.12/bin/objcopy"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/objcopy"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/objcopy"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/objcopy"
       - "/opt/homebrew/bin/objcopy"
       - "/opt/homebrew/sbin/objcopy"
       - "/usr/local/bin/objcopy"
@@ -986,6 +1056,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -1002,6 +1074,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -1039,6 +1113,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -1064,6 +1140,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/readelf"
       - "/opt/homebrew/opt/python@3.12/bin/readelf"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/readelf"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/readelf"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/readelf"
       - "/opt/homebrew/bin/readelf"
       - "/opt/homebrew/sbin/readelf"
       - "/usr/local/bin/readelf"
@@ -1090,6 +1168,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -1106,6 +1186,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -1143,6 +1225,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -1168,6 +1252,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/dlltool"
       - "/opt/homebrew/opt/python@3.12/bin/dlltool"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/dlltool"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
       - "/opt/homebrew/bin/dlltool"
       - "/opt/homebrew/sbin/dlltool"
       - "/usr/local/bin/dlltool"
@@ -1194,6 +1280,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -1210,6 +1298,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -1247,6 +1337,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -1272,6 +1364,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/addr2line"
       - "/opt/homebrew/opt/python@3.12/bin/addr2line"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/addr2line"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/addr2line"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/addr2line"
       - "/opt/homebrew/bin/addr2line"
       - "/opt/homebrew/sbin/addr2line"
       - "/usr/local/bin/addr2line"
@@ -1298,6 +1392,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -1314,6 +1410,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -1351,6 +1449,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -1376,6 +1476,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/tapi"
       - "/opt/homebrew/opt/python@3.12/bin/tapi"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/tapi"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi"
       - "/opt/homebrew/bin/tapi"
       - "/opt/homebrew/sbin/tapi"
       - "/usr/local/bin/tapi"
@@ -1402,6 +1504,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -1418,6 +1522,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -1464,6 +1570,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -1480,6 +1588,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -1523,6 +1633,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -1539,6 +1651,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -1638,6 +1752,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
       - "/opt/homebrew/opt/python@3.12/bin/"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
       - "/usr/local/bin/"
@@ -1663,6 +1779,8 @@ events:
       - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/install_name_tool"
       - "/opt/homebrew/opt/python@3.12/bin/install_name_tool"
       - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/install_name_tool"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/install_name_tool"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/install_name_tool"
       - "/opt/homebrew/bin/install_name_tool"
       - "/opt/homebrew/sbin/install_name_tool"
       - "/usr/local/bin/install_name_tool"
@@ -1677,6 +1795,8 @@ events:
         - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
         - "/opt/homebrew/opt/python@3.12/bin"
         - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
         - "/usr/local/bin"
@@ -1693,6 +1813,8 @@ events:
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
         - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
         - "/opt/homebrew/opt/flex/bin"
         - "/opt/homebrew/opt/bison/bin"
@@ -1712,8 +1834,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-6M6B6H"
-      binary: "/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-6M6B6H"
+      source: "/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-o4skBN"
+      binary: "/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-o4skBN"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -1726,18 +1848,18 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-6M6B6H'
+        Change Dir: '/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-o4skBN'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_0b79f/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0b79f.dir/build.make CMakeFiles/cmTC_0b79f.dir/build
-        Building C object CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_73540/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_73540.dir/build.make CMakeFiles/cmTC_73540.dir/build
+        Building C object CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
         Apple clang version 21.0.0 (clang-2100.1.1.101)
         Target: arm64-apple-darwin25.5.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
         clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
-         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -fno-sized-deallocation -target-sdk-version=26.5 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-6M6B6H -target-linker-version 1267 -v -fcoverage-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-6M6B6H -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/21 -dependency-file CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -Wno-elaborated-enum-base -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -Wno-error=allocator-wrappers -fdwarf2-cfi-asm -o CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -fno-sized-deallocation -target-sdk-version=26.5 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-o4skBN -target-linker-version 1267 -v -fcoverage-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-o4skBN -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/21 -dependency-file CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -Wno-elaborated-enum-base -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -Wno-error=allocator-wrappers -fdwarf2-cfi-asm -o CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
         clang -cc1 version 21.0.0 (clang-2100.1.1.101) default target arm64-apple-darwin25.5.0
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"
@@ -1750,13 +1872,13 @@ events:
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)
         End of search list.
-        Linking C executable cmTC_0b79f
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0b79f.dir/link.txt --verbose=1
+        Linking C executable cmTC_73540
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_73540.dir/link.txt --verbose=1
         Apple clang version 21.0.0 (clang-2100.1.1.101)
         Target: arm64-apple-darwin25.5.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
-         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_0b79f -L/usr/local/lib -v CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a
+         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_73540 -L/usr/local/lib -v CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld PROJECT:ld-1267
         BUILD 16:38:58 Jun  8 2026
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em armv8m.main armv8.1m.main
@@ -1769,7 +1891,7 @@ events:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/swift
         Framework search paths:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
-        /usr/bin/cc  -arch arm64  -v -Wl,-v CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -o cmTC_0b79f
+        /usr/bin/cc  -arch arm64  -v -Wl,-v CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -o cmTC_73540
         
       exitCode: 0
   -
@@ -1813,18 +1935,18 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-6M6B6H']
+        ignore line: [Change Dir: '/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-o4skBN']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_0b79f/fast]
-        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0b79f.dir/build.make CMakeFiles/cmTC_0b79f.dir/build]
-        ignore line: [Building C object CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_73540/fast]
+        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_73540.dir/build.make CMakeFiles/cmTC_73540.dir/build]
+        ignore line: [Building C object CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [Apple clang version 21.0.0 (clang-2100.1.1.101)]
         ignore line: [Target: arm64-apple-darwin25.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
         ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
-        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -fno-sized-deallocation -target-sdk-version=26.5 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-6M6B6H -target-linker-version 1267 -v -fcoverage-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-6M6B6H -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/21 -dependency-file CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -Wno-elaborated-enum-base -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -Wno-error=allocator-wrappers -fdwarf2-cfi-asm -o CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -fno-sized-deallocation -target-sdk-version=26.5 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-o4skBN -target-linker-version 1267 -v -fcoverage-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-o4skBN -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/21 -dependency-file CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -Wno-elaborated-enum-base -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -Wno-error=allocator-wrappers -fdwarf2-cfi-asm -o CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [clang -cc1 version 21.0.0 (clang-2100.1.1.101) default target arm64-apple-darwin25.5.0]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"]
@@ -1837,13 +1959,13 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking C executable cmTC_0b79f]
-        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0b79f.dir/link.txt --verbose=1]
+        ignore line: [Linking C executable cmTC_73540]
+        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_73540.dir/link.txt --verbose=1]
         ignore line: [Apple clang version 21.0.0 (clang-2100.1.1.101)]
         ignore line: [Target: arm64-apple-darwin25.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_0b79f -L/usr/local/lib -v CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_73540 -L/usr/local/lib -v CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a]
           arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -1860,10 +1982,10 @@ events:
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_0b79f] ==> ignore
+          arg [cmTC_73540] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_0b79f.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_73540.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lSystem] ==> lib [System]
           arg [/Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a]
         linker tool for 'C': /Library/Developer/CommandLineTools/usr/bin/ld
@@ -1906,8 +2028,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-dT2Ksh"
-      binary: "/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-dT2Ksh"
+      source: "/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-0G1HoV"
+      binary: "/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-0G1HoV"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1921,19 +2043,19 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-dT2Ksh'
+        Change Dir: '/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-0G1HoV'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_d7d3c/fast
-        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d7d3c.dir/build.make CMakeFiles/cmTC_d7d3c.dir/build
-        Building CXX object CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_1f7e1/fast
+        /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_1f7e1.dir/build.make CMakeFiles/cmTC_1f7e1.dir/build
+        Building CXX object CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Apple clang version 21.0.0 (clang-2100.1.1.101)
         Target: arm64-apple-darwin25.5.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
         clang++: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"
-         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -fno-sized-deallocation -target-sdk-version=26.5 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-dT2Ksh -target-linker-version 1267 -v -fcoverage-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-dT2Ksh -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/21 -dependency-file CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -Wno-elaborated-enum-base -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -Wno-error=allocator-wrappers -fdwarf2-cfi-asm -o CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+         "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -fno-sized-deallocation -target-sdk-version=26.5 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-0G1HoV -target-linker-version 1267 -v -fcoverage-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-0G1HoV -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/21 -dependency-file CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -Wno-elaborated-enum-base -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -Wno-error=allocator-wrappers -fdwarf2-cfi-asm -o CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         clang -cc1 version 21.0.0 (clang-2100.1.1.101) default target arm64-apple-darwin25.5.0
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"
@@ -1947,13 +2069,13 @@ events:
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)
         End of search list.
-        Linking CXX executable cmTC_d7d3c
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d7d3c.dir/link.txt --verbose=1
+        Linking CXX executable cmTC_1f7e1
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1f7e1.dir/link.txt --verbose=1
         Apple clang version 21.0.0 (clang-2100.1.1.101)
         Target: arm64-apple-darwin25.5.0
         Thread model: posix
         InstalledDir: /Library/Developer/CommandLineTools/usr/bin
-         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_d7d3c -L/usr/local/lib -v CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a
+         "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_1f7e1 -L/usr/local/lib -v CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld PROJECT:ld-1267
         BUILD 16:38:58 Jun  8 2026
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em armv8m.main armv8.1m.main
@@ -1966,7 +2088,7 @@ events:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/swift
         Framework search paths:
         	/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
-        /usr/bin/c++  -arch arm64  -v -Wl,-v CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_d7d3c
+        /usr/bin/c++  -arch arm64  -v -Wl,-v CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_1f7e1
         
       exitCode: 0
   -
@@ -2012,19 +2134,19 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-dT2Ksh']
+        ignore line: [Change Dir: '/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-0G1HoV']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_d7d3c/fast]
-        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d7d3c.dir/build.make CMakeFiles/cmTC_d7d3c.dir/build]
-        ignore line: [Building CXX object CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_1f7e1/fast]
+        ignore line: [/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_1f7e1.dir/build.make CMakeFiles/cmTC_1f7e1.dir/build]
+        ignore line: [Building CXX object CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Apple clang version 21.0.0 (clang-2100.1.1.101)]
         ignore line: [Target: arm64-apple-darwin25.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
         ignore line: [clang++: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"]
-        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -fno-sized-deallocation -target-sdk-version=26.5 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-dT2Ksh -target-linker-version 1267 -v -fcoverage-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-dT2Ksh -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/21 -dependency-file CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -Wno-elaborated-enum-base -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -Wno-error=allocator-wrappers -fdwarf2-cfi-asm -o CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -fno-sized-deallocation -target-sdk-version=26.5 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-0G1HoV -target-linker-version 1267 -v -fcoverage-compilation-dir=/Users/larenpinto/Desktop/ResearchPaperAssistant/build/CMakeFiles/CMakeScratch/TryCompile-0G1HoV -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/21 -dependency-file CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -Wno-elaborated-enum-base -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -Wno-error=allocator-wrappers -fdwarf2-cfi-asm -o CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [clang -cc1 version 21.0.0 (clang-2100.1.1.101) default target arm64-apple-darwin25.5.0]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"]
@@ -2038,13 +2160,13 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking CXX executable cmTC_d7d3c]
-        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d7d3c.dir/link.txt --verbose=1]
+        ignore line: [Linking CXX executable cmTC_1f7e1]
+        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1f7e1.dir/link.txt --verbose=1]
         ignore line: [Apple clang version 21.0.0 (clang-2100.1.1.101)]
         ignore line: [Target: arm64-apple-darwin25.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_d7d3c -L/usr/local/lib -v CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.5 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_1f7e1 -L/usr/local/lib -v CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a]
           arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -2061,10 +2183,10 @@ events:
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_d7d3c] ==> ignore
+          arg [cmTC_1f7e1] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_d7d3c.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_1f7e1.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lc++] ==> lib [c++]
           arg [-lSystem] ==> lib [System]
           arg [/Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/21/lib/darwin/libclang_rt.osx.a]
@@ -2099,4 +2221,244 @@ events:
       will use ld-classic for: armv6 armv7 armv7s i386 armv6m armv7k armv7m armv7em
       LTO support using: LLVM version 21.0.0 (static support for 30, runtime is 30)
       TAPI support using: Apple TAPI version 21.0.0 (tapi-2100.0.2.6)
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake:517 (find_program)"
+      - "CMakeLists.txt:9 (find_package)"
+    mode: "program"
+    variable: "PKG_CONFIG_EXECUTABLE"
+    description: "pkg-config executable"
+    settings:
+      SearchFramework: "FIRST"
+      SearchAppBundle: "FIRST"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "pkg-config"
+      - "pkgconf"
+    candidate_directories:
+      - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin/"
+      - "/opt/homebrew/opt/flex/bin/"
+      - "/opt/homebrew/opt/bison/bin/"
+      - "/Users/larenpinto/.antigravity/antigravity/bin/"
+      - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/"
+      - "/opt/homebrew/opt/python@3.12/bin/"
+      - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/opt/homebrew/bin/"
+      - "/opt/homebrew/sbin/"
+      - "/usr/local/bin/"
+      - "/System/Cryptexes/App/usr/bin/"
+      - "/usr/bin/"
+      - "/bin/"
+      - "/usr/sbin/"
+      - "/sbin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
+      - "/pkg/env/global/bin/"
+      - "/Library/Apple/usr/bin/"
+      - "/Applications/VMware Fusion.app/Contents/Public/"
+      - "/usr/local/share/dotnet/"
+      - "/Users/larenpinto/.dotnet/tools/"
+      - "/Users/larenpinto/Library/Python/3.9/bin/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/bin/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/sbin/"
+      - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/"
+      - "/opt/homebrew/bin/"
+      - "/opt/homebrew/sbin/"
+      - "/opt/homebrew/"
+      - "/usr/local/bin/"
+      - "/usr/local/sbin/"
+      - "/usr/local/"
+      - "/usr/bin/"
+      - "/usr/sbin/"
+      - "/usr/"
+      - "/bin/"
+      - "/sbin/"
+      - "/usr/X11R6/bin/"
+      - "/usr/X11R6/sbin/"
+      - "/usr/X11R6/"
+      - "/usr/pkg/bin/"
+      - "/usr/pkg/sbin/"
+      - "/usr/pkg/"
+      - "/opt/bin/"
+      - "/opt/sbin/"
+      - "/opt/"
+      - "/sw/bin/"
+      - "/sw/sbin/"
+      - "/sw/"
+      - "/opt/local/bin/"
+      - "/opt/local/sbin/"
+      - "/opt/local/"
+      - "/Users/larenpinto/Applications/"
+      - "/Applications/"
+    searched_directories:
+      - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin/pkg-config"
+      - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin/pkgconf"
+      - "/opt/homebrew/opt/flex/bin/pkg-config"
+      - "/opt/homebrew/opt/flex/bin/pkgconf"
+      - "/opt/homebrew/opt/bison/bin/pkg-config"
+      - "/opt/homebrew/opt/bison/bin/pkgconf"
+      - "/Users/larenpinto/.antigravity/antigravity/bin/pkg-config"
+      - "/Users/larenpinto/.antigravity/antigravity/bin/pkgconf"
+      - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/pkg-config"
+      - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin/pkgconf"
+      - "/opt/homebrew/opt/python@3.12/bin/pkg-config"
+      - "/opt/homebrew/opt/python@3.12/bin/pkgconf"
+      - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/pkg-config"
+      - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/pkgconf"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/pkg-config"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/pkgconf"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/pkg-config"
+      - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/pkgconf"
+    found: "/opt/homebrew/bin/pkg-config"
+    search_context:
+      ENV{PATH}:
+        - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
+        - "/opt/homebrew/opt/flex/bin"
+        - "/opt/homebrew/opt/bison/bin"
+        - "/Users/larenpinto/.antigravity/antigravity/bin"
+        - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
+        - "/opt/homebrew/opt/python@3.12/bin"
+        - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/opt/homebrew/bin"
+        - "/opt/homebrew/sbin"
+        - "/usr/local/bin"
+        - "/System/Cryptexes/App/usr/bin"
+        - "/usr/bin"
+        - "/bin"
+        - "/usr/sbin"
+        - "/sbin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
+        - "/pkg/env/global/bin"
+        - "/Library/Apple/usr/bin"
+        - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/usr/local/share/dotnet"
+        - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
+        - "/opt/homebrew/opt/flex/bin"
+        - "/opt/homebrew/opt/bison/bin"
+        - "/Users/larenpinto/.antigravity/antigravity/bin"
+        - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
+        - "/opt/homebrew/opt/python@3.12/bin"
+        - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Python/3.9/bin"
+        - "/Users/larenpinto/Library/Python/3.9/bin"
+      CMAKE_INSTALL_PREFIX: "/usr/local"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr"
+        - "/"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr/X11R6"
+        - "/usr/pkg"
+        - "/opt"
+        - "/sw"
+        - "/opt/local"
+      CMAKE_SYSTEM_APPBUNDLE_PATH:
+        - "/Users/larenpinto/Applications"
+        - "/Applications"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake:761 (find_library)"
+      - "/opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake:811 (_pkg_find_libs)"
+      - "/opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake:1149 (_pkg_recalculate)"
+      - "/opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake:1166 (_pkg_check_modules_internal)"
+      - "CMakeLists.txt:10 (pkg_check_modules)"
+    mode: "library"
+    variable: "pkgcfg_lib_POPPLER_poppler-cpp"
+    description: "Path to a library."
+    settings:
+      SearchFramework: "FIRST"
+      SearchAppBundle: "FIRST"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "poppler-cpp"
+    candidate_directories:
+      - "/opt/homebrew/Cellar/poppler/26.07.0/lib/"
+    found: "/opt/homebrew/Cellar/poppler/26.07.0/lib/libpoppler-cpp.dylib"
+    search_context:
+      ENV{PATH}:
+        - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
+        - "/opt/homebrew/opt/flex/bin"
+        - "/opt/homebrew/opt/bison/bin"
+        - "/Users/larenpinto/.antigravity/antigravity/bin"
+        - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
+        - "/opt/homebrew/opt/python@3.12/bin"
+        - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/opt/homebrew/bin"
+        - "/opt/homebrew/sbin"
+        - "/usr/local/bin"
+        - "/System/Cryptexes/App/usr/bin"
+        - "/usr/bin"
+        - "/bin"
+        - "/usr/sbin"
+        - "/sbin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
+        - "/pkg/env/global/bin"
+        - "/Library/Apple/usr/bin"
+        - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/usr/local/share/dotnet"
+        - "~/.dotnet/tools"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/larenpinto/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/Users/larenpinto/.antigravity-ide/antigravity-ide/bin"
+        - "/opt/homebrew/opt/flex/bin"
+        - "/opt/homebrew/opt/bison/bin"
+        - "/Users/larenpinto/.antigravity/antigravity/bin"
+        - "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin"
+        - "/opt/homebrew/opt/python@3.12/bin"
+        - "/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+        - "/Users/larenpinto/Library/Python/3.9/bin"
+        - "/Users/larenpinto/Library/Python/3.9/bin"
+      CMAKE_INSTALL_PREFIX: "/usr/local"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr"
+        - "/"
+        - "/opt/homebrew"
+        - "/usr/local"
+        - "/usr/X11R6"
+        - "/usr/pkg"
+        - "/opt"
+        - "/sw"
+        - "/opt/local"
+      CMAKE_SYSTEM_LIBRARY_PATH:
+        - "/usr/lib/X11"
+      CMAKE_SYSTEM_FRAMEWORK_PATH:
+        - "~/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Network/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/Library/Frameworks"
+        - "/Library/Developer/CommandLineTools/Library/Frameworks"
+        - "/Library/Frameworks"
+        - "/Network/Library/Frameworks"
+        - "/System/Library/Frameworks"
 ...

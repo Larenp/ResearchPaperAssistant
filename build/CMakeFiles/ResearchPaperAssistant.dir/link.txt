@@ -1,1 +1,1 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o -o ResearchPaperAssistant
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.o -o ResearchPaperAssistant   -L/opt/homebrew/Cellar/poppler/26.07.0/lib  -Wl,-rpath,/opt/homebrew/Cellar/poppler/26.07.0/lib -lpoppler-cpp
