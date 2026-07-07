@@ -4,10 +4,11 @@
 #include <string>
 #include <vector>
 
-class Chunker
-{
+#include "../models/Chunk.h"
+
+class Chunker {
 public:
-    std::vector<std::string> split(std::string text);
+  std::vector<Chunk> split(std::string text);
 };
 
 #endif

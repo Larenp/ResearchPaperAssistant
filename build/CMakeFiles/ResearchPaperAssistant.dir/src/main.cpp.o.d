@@ -978,6 +978,7 @@ CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stack \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h \
+  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/chunk/Chunker.h \
+  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/chunk/../models/Chunk.h \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/pdf/PDFParser.h \
-  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/text/TextCleaner.h \
-  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/chunk/Chunker.h
+  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/text/TextCleaner.h
