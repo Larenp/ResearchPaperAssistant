@@ -22,6 +22,8 @@ add_executable(
     src/pdf/PDFParser.cpp
 
     src/text/TextCleaner.cpp
+
+    src/chunk/Chunker.cpp
 )
 
 # Include project headers
