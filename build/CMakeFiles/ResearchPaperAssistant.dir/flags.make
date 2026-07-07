@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/opt/homebrew/Cellar/poppler/26.07.0/include/poppler/cpp -I/opt/homebrew/Cellar/poppler/26.07.0/include/poppler -I/opt/homebrew/Cellar/fontconfig/2.18.1/include -I/opt/homebrew/opt/freetype/include/freetype2 -I/opt/homebrew/Cellar/nss/3.125/include/nss -I/opt/homebrew/Cellar/nspr/4.39/include/nspr -I/opt/homebrew/Cellar/gpgmepp/2.1.0/include -I/opt/homebrew/Cellar/gpgme/2.1.2/include -I/opt/homebrew/Cellar/libassuan/3.0.2/include -I/opt/homebrew/opt/libgpg-error/include -I/opt/homebrew/Cellar/openjpeg/2.5.4/include/openjpeg-2.5 -I/opt/homebrew/opt/little-cms2/include -I/opt/homebrew/opt/libpng/include/libpng16 -I/opt/homebrew/opt/libtiff/include -I/opt/homebrew/opt/zstd/include -I/opt/homebrew/Cellar/xz/5.8.3/include -I/opt/homebrew/opt/jpeg-turbo/include
+CXX_INCLUDES = -I/opt/homebrew/Cellar/poppler/26.07.0/include/poppler/cpp -I/opt/homebrew/Cellar/poppler/26.07.0/include/poppler -I/opt/homebrew/Cellar/fontconfig/2.18.1/include -I/opt/homebrew/opt/freetype/include/freetype2 -I/opt/homebrew/Cellar/nss/3.125/include/nss -I/opt/homebrew/Cellar/nspr/4.39/include/nspr -I/opt/homebrew/Cellar/gpgmepp/2.1.0/include -I/opt/homebrew/Cellar/gpgme/2.1.2/include -I/opt/homebrew/Cellar/libassuan/3.0.2/include -I/opt/homebrew/opt/libgpg-error/include -I/opt/homebrew/Cellar/openjpeg/2.5.4/include/openjpeg-2.5 -I/opt/homebrew/opt/little-cms2/include -I/opt/homebrew/opt/libpng/include/libpng16 -I/opt/homebrew/opt/libtiff/include -I/opt/homebrew/opt/zstd/include -I/opt/homebrew/Cellar/xz/5.8.3/include -I/opt/homebrew/opt/jpeg-turbo/include -I/Users/larenpinto/Desktop/ResearchPaperAssistant/src
 
 CXX_FLAGSarm64 = -std=gnu++20 -arch arm64
 

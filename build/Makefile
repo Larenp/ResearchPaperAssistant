@@ -177,6 +177,30 @@ src/pdf/PDFParser.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ResearchPaperAssistant.dir/build.make CMakeFiles/ResearchPaperAssistant.dir/src/pdf/PDFParser.cpp.s
 .PHONY : src/pdf/PDFParser.cpp.s
 
+src/text/TextCleaner.o: src/text/TextCleaner.cpp.o
+.PHONY : src/text/TextCleaner.o
+
+# target to build an object file
+src/text/TextCleaner.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ResearchPaperAssistant.dir/build.make CMakeFiles/ResearchPaperAssistant.dir/src/text/TextCleaner.cpp.o
+.PHONY : src/text/TextCleaner.cpp.o
+
+src/text/TextCleaner.i: src/text/TextCleaner.cpp.i
+.PHONY : src/text/TextCleaner.i
+
+# target to preprocess a source file
+src/text/TextCleaner.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ResearchPaperAssistant.dir/build.make CMakeFiles/ResearchPaperAssistant.dir/src/text/TextCleaner.cpp.i
+.PHONY : src/text/TextCleaner.cpp.i
+
+src/text/TextCleaner.s: src/text/TextCleaner.cpp.s
+.PHONY : src/text/TextCleaner.s
+
+# target to generate assembly for a file
+src/text/TextCleaner.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ResearchPaperAssistant.dir/build.make CMakeFiles/ResearchPaperAssistant.dir/src/text/TextCleaner.cpp.s
+.PHONY : src/text/TextCleaner.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +216,9 @@ help:
 	@echo "... src/pdf/PDFParser.o"
 	@echo "... src/pdf/PDFParser.i"
 	@echo "... src/pdf/PDFParser.s"
+	@echo "... src/text/TextCleaner.o"
+	@echo "... src/text/TextCleaner.i"
+	@echo "... src/text/TextCleaner.s"
 .PHONY : help
 
 
