@@ -1,12 +1,13 @@
 #ifndef TEXTCLEANER_H
 #define TEXTCLEANER_H
 
-#include <string>
+#include <vector>
 
-class TextCleaner
-{
+#include "../models/Page.h"
+
+class TextCleaner {
 public:
-    std::string clean(std::string text);
+  std::vector<Page> clean(std::vector<Page> pages);
 };
 
 #endif

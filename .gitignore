@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Build files
+build/
+*.o
+
+# Python
+src/python/.venv/
+__pycache__/
+*.pyc

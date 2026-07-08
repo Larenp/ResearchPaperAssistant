@@ -9,10 +9,11 @@ int main() {
   TextCleaner cleaner;
   Chunker chunker;
 
-  std::string text = parser.extractText("../paper.pdf");
+  std::vector<Page> pages = parser.extractPages("../paper.pdf");
 
-  std::string cleanText = cleaner.clean(text);
-  std::vector<Chunk> chunks = chunker.split(cleanText);
+  pages = cleaner.clean(pages);
+
+  std::vector<Chunk> chunks = chunker.split(pages);
 
   for (int i = 0; i < chunks.size(); i++) {
     std::cout << "Chunk " << i + 1 << std::endl;
