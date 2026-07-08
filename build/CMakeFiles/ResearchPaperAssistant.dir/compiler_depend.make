@@ -1885,6 +1885,7 @@ CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o: /Users/larenpinto/Desktop/
   /Library/Developer/CommandLineTools/usr/lib/clang/21/include/stdint.h \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/models/Chunk.h \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/chunk/Chunker.h \
+  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/models/Page.h \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/pdf/PDFParser.h \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/text/TextCleaner.h
 
@@ -4618,6 +4619,8 @@ CMakeFiles/ResearchPaperAssistant.dir/src/text/TextCleaner.cpp.o: /Users/larenpi
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_valid.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/partial_sum.h:
+
+/Users/larenpinto/Desktop/ResearchPaperAssistant/src/models/Page.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h:
 

@@ -3,37 +3,37 @@
 #include <poppler-document.h>
 #include <poppler-page.h>
 
-std::string PDFParser::extractText(std::string pdfPath)
-{
-    auto document = poppler::document::load_from_file(pdfPath);
+std::vector<Page> PDFParser::extractPages(std::string pdfPath) {
+  auto document = poppler::document::load_from_file(pdfPath);
 
-    if (!document)
-    {
-        return "Could not open PDF.";
+  if (!document) {
+    return {};
+  }
+
+  std::vector<Page> pages;
+
+  int totalPages = document->pages();
+
+  for (int i = 0; i < totalPages; i++) {
+    auto page = document->create_page(i);
+
+    if (!page) {
+      continue;
     }
 
-    std::string result = "";
+    auto pageText = page->text();
 
-    int totalPages = document->pages();
+    auto utf8 = pageText.to_utf8();
 
-    for (int i = 0; i < totalPages; i++)
-    {
-        auto page = document->create_page(i);
+    std::string text(utf8.begin(), utf8.end());
 
-        if (!page)
-        {
-            continue;
-        }
+    Page pageData;
 
-        auto pageText = page->text();
+    pageData.text = text;
+    pageData.pageNumber = i + 1;
 
-        auto utf8 = pageText.to_utf8();
+    pages.push_back(pageData);
+  }
 
-        std::string text(utf8.begin(), utf8.end());
-
-        result += text;
-        result += "\n\n";
-    }
-
-    return result;
+  return pages;
 }

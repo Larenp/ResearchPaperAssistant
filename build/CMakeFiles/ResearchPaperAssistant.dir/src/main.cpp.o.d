@@ -981,4 +981,5 @@ CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o: \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/chunk/Chunker.h \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/chunk/../models/Chunk.h \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/pdf/PDFParser.h \
+  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/pdf/../models/Page.h \
   /Users/larenpinto/Desktop/ResearchPaperAssistant/src/text/TextCleaner.h

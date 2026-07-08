@@ -1887,6 +1887,7 @@ CMakeFiles/ResearchPaperAssistant.dir/src/main.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/21/include/stdint.h
  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/models/Chunk.h
  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/chunk/Chunker.h
+ /Users/larenpinto/Desktop/ResearchPaperAssistant/src/models/Page.h
  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/pdf/PDFParser.h
  /Users/larenpinto/Desktop/ResearchPaperAssistant/src/text/TextCleaner.h
 
