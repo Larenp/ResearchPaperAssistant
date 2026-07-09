@@ -1,9 +1,15 @@
+# pyrefly: ignore [missing-import]
 from sentence_transformers import SentenceTransformer
+import torch
+import sys
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
+device = "mps" if torch.backends.mps.is_available() else "cpu"
 
-text = input()
+model = SentenceTransformer("all-MiniLM-L6-v2", device=device)
+
+text = sys.argv[1]
 
 embedding = model.encode(text)
 
-print(" ".join(map(str, embedding)))
+for value in embedding:
+    print(value)
