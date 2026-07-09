@@ -2,7 +2,6 @@
 
 #include <array>
 #include <cstdio>
-#include <memory>
 #include <string>
 
 Embedding EmbeddingGenerator::generate(const Chunk &chunk) {
@@ -10,7 +9,7 @@ Embedding EmbeddingGenerator::generate(const Chunk &chunk) {
 
   std::string command =
       "../src/python/.venv/bin/python ../src/python/embedding_service.py \"" +
-      chunk.text + "\"";
+      chunk.text + "\" 2>/dev/null";
   std::array<char, 256> buffer;
 
   FILE *pipe = popen(command.c_str(), "r");

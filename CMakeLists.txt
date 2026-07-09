@@ -26,6 +26,13 @@ add_executable(
     src/chunk/Chunker.cpp
 
     src/embedding/EmbeddingGenerator.cpp
+
+    src/retrieval/CosineSimilarity.cpp
+
+    src/retrieval/Retriever.cpp
+
+    src/prompt/PromptBuilder.cpp
+
 )
 
 # Include project headers

@@ -3,10 +3,10 @@ from sentence_transformers import SentenceTransformer
 import torch
 import sys
 import warnings
+from urllib3.exceptions import NotOpenSSLWarning
 
+warnings.filterwarnings("ignore", category=NotOpenSSLWarning)
 warnings.filterwarnings("ignore", category=FutureWarning)
-warnings.filterwarnings("ignore")
-
 device = "mps" if torch.backends.mps.is_available() else "cpu"
 
 model = SentenceTransformer("all-MiniLM-L6-v2", device=device)
