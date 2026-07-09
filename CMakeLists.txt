@@ -24,6 +24,8 @@ add_executable(
     src/text/TextCleaner.cpp
 
     src/chunk/Chunker.cpp
+
+    src/embedding/EmbeddingGenerator.cpp
 )
 
 # Include project headers

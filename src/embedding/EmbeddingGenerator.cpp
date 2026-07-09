@@ -9,8 +9,8 @@ Embedding EmbeddingGenerator::generate(const Chunk &chunk) {
   Embedding embedding;
 
   std::string command =
-      "python src/python/embedding_service.py \"" + chunk.text + "\"";
-
+      "../src/python/.venv/bin/python ../src/python/embedding_service.py \"" +
+      chunk.text + "\"";
   std::array<char, 256> buffer;
 
   FILE *pipe = popen(command.c_str(), "r");

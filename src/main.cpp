@@ -1,9 +1,9 @@
-#include <iostream>
-
 #include "chunk/Chunker.h"
 #include "embedding/EmbeddingGenerator.h"
+#include "models/VectorEntry.h"
 #include "pdf/PDFParser.h"
 #include "text/TextCleaner.h"
+#include <iostream>
 
 int main() {
   PDFParser parser;
@@ -20,21 +20,26 @@ int main() {
   // Split into chunks
   std::vector<Chunk> chunks = chunker.split(pages);
 
-  // Generate embedding for the first chunk
-  if (!chunks.empty()) {
-    Embedding embedding = embeddingGenerator.generate(chunks[0]);
+  // Generate embeddings for all chunks
+  std::vector<VectorEntry> database;
 
-    std::cout << "Embedding size: " << embedding.values.size() << std::endl;
+  for (const Chunk &chunk : chunks) {
+    VectorEntry entry;
+
+    entry.chunk = chunk;
+    entry.embedding = embeddingGenerator.generate(chunk);
+
+    database.push_back(entry);
   }
 
-  // Print all chunks
-  for (int i = 0; i < chunks.size(); i++) {
-    std::cout << "Chunk " << i + 1 << std::endl;
-    std::cout << "Text: " << chunks[i].text << std::endl;
-    std::cout << "Page: " << chunks[i].page << std::endl;
-    std::cout << "Chunk ID: " << chunks[i].chunkId << std::endl;
-    std::cout << "Paper: " << chunks[i].paperName << std::endl;
-    std::cout << std::endl;
+  std::cout << "Total Chunks: " << chunks.size() << std::endl;
+  std::cout << "Total Vector Entries: " << database.size() << std::endl;
+
+  // Verify each embedding
+  for (const auto &entry : database) {
+    std::cout << "Chunk " << entry.chunk.chunkId
+              << " -> Embedding size: " << entry.embedding.values.size()
+              << std::endl;
   }
 
   return 0;

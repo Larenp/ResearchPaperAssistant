@@ -2,6 +2,10 @@
 from sentence_transformers import SentenceTransformer
 import torch
 import sys
+import warnings
+
+warnings.filterwarnings("ignore", category=FutureWarning)
+warnings.filterwarnings("ignore")
 
 device = "mps" if torch.backends.mps.is_available() else "cpu"
 
