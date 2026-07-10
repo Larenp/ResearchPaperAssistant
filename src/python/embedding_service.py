@@ -1,8 +1,10 @@
 # pyrefly: ignore [missing-import]
 from sentence_transformers import SentenceTransformer
+# pyrefly: ignore [missing-import]
 import torch
 import sys
 import warnings
+# pyrefly: ignore [missing-import]
 from urllib3.exceptions import NotOpenSSLWarning
 
 warnings.filterwarnings("ignore", category=NotOpenSSLWarning)

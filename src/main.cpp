@@ -2,6 +2,7 @@
 
 #include "chunk/Chunker.h"
 #include "embedding/EmbeddingGenerator.h"
+#include "llm/LLMClient.h"
 #include "models/VectorEntry.h"
 #include "pdf/PDFParser.h"
 #include "prompt/PromptBuilder.h"
@@ -63,9 +64,13 @@ int main() {
 
   // Display results
 
-  std::cout << "\n========== GENERATED PROMPT ==========\n\n";
+  LLMClient llm;
 
-  std::cout << prompt << std::endl;
+  std::cout << "\nGenerating answer...\n\n";
+
+  std::string answer = llm.generate(prompt);
+
+  std::cout << answer << std::endl;
 
   return 0;
 }

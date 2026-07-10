@@ -12,7 +12,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Find Poppler using pkg-config
 find_package(PkgConfig REQUIRED)
 pkg_check_modules(POPPLER REQUIRED poppler-cpp)
-
+find_package(CURL REQUIRED)
+find_package(nlohmann_json REQUIRED)
 # Create executable
 add_executable(
     ResearchPaperAssistant
@@ -32,6 +33,8 @@ add_executable(
     src/retrieval/Retriever.cpp
 
     src/prompt/PromptBuilder.cpp
+
+    src/llm/LLMClient.cpp
 
 )
 
@@ -57,6 +60,14 @@ target_link_directories(
 target_link_libraries(
     ResearchPaperAssistant
     PRIVATE
-
     ${POPPLER_LIBRARIES}
+    CURL::libcurl
+    nlohmann_json::nlohmann_json
+)
+target_include_directories(
+    ResearchPaperAssistant
+    PRIVATE
+    ${POPPLER_INCLUDE_DIRS}
+    /opt/homebrew/include
+    src
 )
