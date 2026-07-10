@@ -3,7 +3,7 @@
 std::vector<Chunk> Chunker::split(std::vector<Page> pages) {
   std::vector<Chunk> chunks;
 
-  int chunkSize = 50;
+  int chunkSize = 200;
 
   for (int pageIndex = 0; pageIndex < pages.size(); pageIndex++) {
     std::string text = pages[pageIndex].text;

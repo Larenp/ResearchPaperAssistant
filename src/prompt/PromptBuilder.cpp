@@ -11,6 +11,13 @@ std::string PromptBuilder::build(const std::string &question,
 
   prompt << "Answer the question ONLY using the provided context.\n";
   prompt << "If the answer cannot be found in the context, say so.\n\n";
+  prompt << "Rules:\n";
+  prompt << "1. Do NOT use your own knowledge.\n";
+  prompt << "2. Do NOT make assumptions.\n";
+  prompt
+      << "3. If the answer is not explicitly present in the context, reply "
+         "exactly: 'I could not find the answer in the provided document.'\n";
+  prompt << "4. Do not answer questions unrelated to the document.\n\n";
 
   prompt << "Context:\n\n";
 

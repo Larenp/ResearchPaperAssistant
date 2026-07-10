@@ -1,17 +1,24 @@
+import os
+
+# Force offline mode
+os.environ["HF_HUB_OFFLINE"] = "1"
+os.environ["TRANSFORMERS_OFFLINE"] = "1"
+
 # pyrefly: ignore [missing-import]
 from sentence_transformers import SentenceTransformer
 # pyrefly: ignore [missing-import]
 import torch
 import sys
 import warnings
-# pyrefly: ignore [missing-import]
-from urllib3.exceptions import NotOpenSSLWarning
 
-warnings.filterwarnings("ignore", category=NotOpenSSLWarning)
-warnings.filterwarnings("ignore", category=FutureWarning)
+warnings.filterwarnings("ignore")
+
 device = "mps" if torch.backends.mps.is_available() else "cpu"
 
-model = SentenceTransformer("all-MiniLM-L6-v2", device=device)
+model = SentenceTransformer(
+    "all-MiniLM-L6-v2",
+    device=device
+)
 
 text = sys.argv[1]
 

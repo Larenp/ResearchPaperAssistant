@@ -3,7 +3,6 @@
 #include <curl/curl.h>
 #include <nlohmann/json.hpp>
 
-#include <iostream>
 #include <string>
 
 using json = nlohmann::json;
@@ -68,9 +67,6 @@ std::string LLMClient::generate(const std::string &prompt) {
 
   curl_slist_free_all(headers);
   curl_easy_cleanup(curl);
-
-  std::cout << "\n========== RAW RESPONSE ==========\n";
-  std::cout << response << std::endl;
 
   if (statusCode != 200) {
     return "HTTP Error: " + std::to_string(statusCode);

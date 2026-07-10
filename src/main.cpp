@@ -8,6 +8,7 @@
 #include "prompt/PromptBuilder.h"
 #include "retrieval/Retriever.h"
 #include "text/TextCleaner.h"
+
 int main() {
   PDFParser parser;
   TextCleaner cleaner;
@@ -23,14 +24,21 @@ int main() {
   // Build the vector database
   std::vector<VectorEntry> database;
 
+  int count = 1;
+
   for (const Chunk &chunk : chunks) {
+    std::cout << "Embedding Chunk " << count << "/" << chunks.size()
+              << std::endl;
+
     VectorEntry entry;
+
     entry.chunk = chunk;
     entry.embedding = embeddingGenerator.generate(chunk);
-    database.push_back(entry);
-  }
 
-  std::cout << "Indexed " << database.size() << " chunks.\n";
+    database.push_back(entry);
+
+    count++;
+  }
 
   // Read user query
   std::string question;
@@ -59,18 +67,16 @@ int main() {
     std::cout << "No relevant chunks found.\n";
     return 0;
   }
+
+  // Build prompt
   PromptBuilder builder;
   std::string prompt = builder.build(question, results);
 
-  // Display results
-
+  // Generate answer
   LLMClient llm;
-
-  std::cout << "\nGenerating answer...\n\n";
-
   std::string answer = llm.generate(prompt);
 
-  std::cout << answer << std::endl;
+  std::cout << "\n" << answer << std::endl;
 
   return 0;
 }
